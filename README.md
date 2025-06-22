@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there👋 I'm Anshu Priya! 
+
+- 💻 I love coding and creating cool projects
+- 🌱 Currently learning DSA
+- 📚 MCA student aiming for a tech career
+- 📫 Let's connect: [LinkedIn](www.linkedin.com/in/anshu-priya-345a1b324)
+
+> “Bringing logic and magic together — with code.” 🧠✨
+
+
 
 <!--
 **Anshu-priya-23/Anshu-priya-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
