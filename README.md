@@ -3,8 +3,7 @@
 - 💻 I love coding and creating cool projects
 - 🌱 Currently learning DSA
 - 📚 MCA student aiming for a tech career
-- 📫 Let's connect: [LinkedIn](www.linkedin.com/in/anshu-priya-345a1b324)
-
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/anshu-priya-345a1b324)
 > “Bringing logic and magic together — with code.” 🧠✨
 
 
