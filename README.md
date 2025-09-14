@@ -1,7 +1,6 @@
 ## Hi there👋 I'm Anshu Priya! 
 
 - 👩🏻‍🎓 I'm an MCA student at VIT Vellore.
-- 💻 I love coding and am passionate about AI/ML!
 - 🌱 I’m currently learning DSA and honing my skills in competitive programming.
 - 📚 Exploring coding and building skills for a career in tech.
 - 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/anshu-priya-345a1b324)
