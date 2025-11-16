@@ -3,7 +3,7 @@
 - 👩🏻‍🎓 I'm an MCA student at VIT Vellore.
 - 🌱 I’m currently learning DSA and honing my skills in competitive programming.
 - 📚 Exploring coding and building skills for a career in tech.
-- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/anshu-priya-345a1b324)
+- 📫 Let's connect: [LinkedIn][(https://www.linkedin.com/in/anshu-priya-8b6ba022b/)]
 > “Bringing logic and magic together — with code.” 🧠✨
 
 
